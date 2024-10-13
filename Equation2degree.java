@@ -1,6 +1,8 @@
+package Package;
+
 import java.util.Scanner;
 
-public class Equation2degree {
+public class Equation2Degree {
 
 	public static void main(String[] args) {
 		
